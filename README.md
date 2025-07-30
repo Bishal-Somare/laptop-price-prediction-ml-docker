@@ -3,7 +3,7 @@
 ````markdown
 ### 💻 Laptop Price Prediction System (Dockerized 🐳)
 
-This is a practice project combining **Machine Learning** and **Docker**. It predicts laptop prices using a pre-trained regression model and is containerized using Docker for ease of deployment.
+This is a practice project combining Machine Learning and Docker. It predicts laptop prices using a pre-trained regression model and is containerized using Docker for ease of deployment.
 
 The main goal is to demonstrate:
 - ML model packaging and deployment using Docker
