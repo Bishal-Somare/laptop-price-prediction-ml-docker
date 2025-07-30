@@ -3,10 +3,9 @@ Here’s a clean and professional `README.md` file for your **Laptop Price Predi
 
 ---
 
-### ✅ `README.md` – Dockerized Laptop Price Prediction System
 
 ````markdown
-# 💻 Laptop Price Prediction System (Dockerized 🐳)
+💻 Laptop Price Prediction System (Dockerized 🐳)
 
 This project is a Machine Learning-powered system to predict laptop prices based on user inputs. It uses **Linear Regression** for predictions and is fully containerized using **Docker** for easy deployment and testing.
 
