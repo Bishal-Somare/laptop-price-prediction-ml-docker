@@ -1,1 +1,1 @@
-# laptop-price-prediction-ml-docker
+# laptop-price-prediction-ml-docker-practice
